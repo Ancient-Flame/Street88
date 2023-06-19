@@ -211,6 +211,7 @@ body {
     color: #FFFFFF;
     padding: 21px 10px 19px 10px;
     transition: .4s;
+    border-bottom: 1px solid transparent;
 }
 
 .main__links a:hover {
